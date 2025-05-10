@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-331ca543bf403a719207.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "navigator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "navigator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-navigator-Debug-13b6422cf9a08a72e778.json",
+					"name" : "navigator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "navigator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-navigator_autogen-Debug-7eeed8f45f9547955ca8.json",
+					"name" : "navigator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "navigator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-navigator_autogen_timestamp_deps-Debug-6a79f3c261c0a2986102.json",
+					"name" : "navigator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nikita/navigator/build/qmake-Debug",
+		"source" : "/home/nikita/navigator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

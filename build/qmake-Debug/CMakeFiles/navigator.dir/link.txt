@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/navigator.dir/navigator_autogen/mocs_compilation.cpp.o CMakeFiles/navigator.dir/main.cpp.o CMakeFiles/navigator.dir/mainwindow.cpp.o CMakeFiles/navigator.dir/drawlayer.cpp.o -o navigator  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13 

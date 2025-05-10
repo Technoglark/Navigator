@@ -1,0 +1,9 @@
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/navigator.dir
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/edit_cache.dir
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/list_install_components.dir
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/install.dir
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/install/local.dir
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/install/strip.dir
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/navigator_autogen_timestamp_deps.dir
+/home/nikita/navigator/build/qmake-Debug/CMakeFiles/navigator_autogen.dir
