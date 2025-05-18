@@ -1,26 +1,26 @@
 # Navigator
 
-## Проект создан с целью визуализации алгоритма поиска кратчайшего пути (Алгоритм Дейкстры) на плоскости
+## The project was created to visualise the shortest path search algorithm (Dijkstra's Algorithm) on the plane
 
-# Возможности
--построение пути с любой логикой соединений.
+# Opportunities
+-building a path with any connection logic.
 
--логирование координат точек.
+-logging of point coordinates.
 
--построение кратчайшего пути между двумя точками.
+-construction of the shortest path between two points.
 
-# Использование
+# Utilisation
 
-### Построение пути
-1. Проставление точек
+### Path construction
+1. Placement of points
 
 ![](media/record1.gif)
 
-2. Выбор соседей
+2. Choosing neighbours
 
 ![](media/record2.gif)
 
-3.Нахождение пути
+3. Path searching
 
 ![](media/record3.gif)
 
